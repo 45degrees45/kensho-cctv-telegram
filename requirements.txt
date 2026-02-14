@@ -1,0 +1,11 @@
+# =============================================================================
+# CCTV Alert System - Python Dependencies
+# v1.0.0
+# =============================================================================
+# Install with:  pip install -r requirements.txt
+# =============================================================================
+
+opencv-python
+python-telegram-bot
+python-dotenv
+ultralytics
